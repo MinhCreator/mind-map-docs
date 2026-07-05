@@ -7,7 +7,7 @@ export const en = defineConfig({
     ...common,
 
     nav: [
-      { text: 'Online trial', link: 'http://web.sxmind.cn/' },
+      { text: 'Online trial', link: 'https://web.sxmind.cn/' },
       {
         text: 'Start',
         link: '/en/start/introduction',
@@ -25,7 +25,7 @@ export const en = defineConfig({
         activeMatch: '/en/plugins/'
       },
       { text: 'Sponsor', link: '/sponsor' },
-      { text: 'Client', link: 'http://sxmind.cn/' },
+      { text: 'Client', link: 'https://sxmind.cn/' },
       { text: 'Blog', link: '/en/blog' },
       {
         text: 'More',
